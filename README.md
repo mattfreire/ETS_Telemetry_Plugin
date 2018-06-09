@@ -9,7 +9,7 @@
 
 ### SDK made by [nlhans](https://github.com/nlhans/ets2-sdk-plugin)
 
-The SDK is a plugin for ETS. This version of the SDK has been edited to have a button that exports the telemetry to a CSV file with specified location and length of recording.
+The SDK is a plugin for Euro Truck Simulator that accesses the telemetry of the truck being driven in the game. This version of the SDK has been edited to have a button that exports the telemetry to a CSV file.
 
 To install the SDK, navigate to code-mmfreire/SDK/Win64 inside Base Directory and copy the file **ets2-telemetry.dll**. Inside the ETS installation folder (C:/Program Files (x86)/Steam/steamapps/common/Euro Truck Simulator 2/bin/win_x86 for Windows), create a new folder 'plugins' and paste the ets2-telemetry.dll inside it. The path to the telemetry dll file should thus be:
 
