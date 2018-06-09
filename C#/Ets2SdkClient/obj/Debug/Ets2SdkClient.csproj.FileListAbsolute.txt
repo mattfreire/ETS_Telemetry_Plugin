@@ -1,0 +1,5 @@
+F:\tmp\Matthew\C#\Ets2SdkClient\bin\Debug\Ets2SdkClient.dll
+F:\tmp\Matthew\C#\Ets2SdkClient\bin\Debug\Ets2SdkClient.pdb
+F:\tmp\Matthew\C#\Ets2SdkClient\obj\Debug\Ets2SdkClient.csprojResolveAssemblyReference.cache
+F:\tmp\Matthew\C#\Ets2SdkClient\obj\Debug\Ets2SdkClient.dll
+F:\tmp\Matthew\C#\Ets2SdkClient\obj\Debug\Ets2SdkClient.pdb

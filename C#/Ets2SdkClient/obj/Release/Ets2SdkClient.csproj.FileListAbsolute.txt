@@ -1,0 +1,4 @@
+F:\tmp\Matthew\C#\Ets2SdkClient\bin\Release\Ets2SdkClient.dll
+F:\tmp\Matthew\C#\Ets2SdkClient\bin\Release\Ets2SdkClient.pdb
+F:\tmp\Matthew\C#\Ets2SdkClient\obj\Release\Ets2SdkClient.dll
+F:\tmp\Matthew\C#\Ets2SdkClient\obj\Release\Ets2SdkClient.pdb

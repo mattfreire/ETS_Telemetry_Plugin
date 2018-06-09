@@ -1,0 +1,10 @@
+F:\tmp\Matthew\C#\Ets2SdkClient.Demo\bin\Debug\Ets2SdkClient.Demo.exe
+F:\tmp\Matthew\C#\Ets2SdkClient.Demo\bin\Debug\Ets2SdkClient.Demo.pdb
+F:\tmp\Matthew\C#\Ets2SdkClient.Demo\bin\Debug\Ets2SdkClient.dll
+F:\tmp\Matthew\C#\Ets2SdkClient.Demo\bin\Debug\Ets2SdkClient.pdb
+F:\tmp\Matthew\C#\Ets2SdkClient.Demo\obj\x86\Debug\Ets2SdkClient.Demo.csprojResolveAssemblyReference.cache
+F:\tmp\Matthew\C#\Ets2SdkClient.Demo\obj\x86\Debug\Ets2SdkClient.Demo.Ets2SdkClientDemo.resources
+F:\tmp\Matthew\C#\Ets2SdkClient.Demo\obj\x86\Debug\Ets2SdkClient.Demo.Properties.Resources.resources
+F:\tmp\Matthew\C#\Ets2SdkClient.Demo\obj\x86\Debug\Ets2SdkClient.Demo.csproj.GenerateResource.Cache
+F:\tmp\Matthew\C#\Ets2SdkClient.Demo\obj\x86\Debug\Ets2SdkClient.Demo.exe
+F:\tmp\Matthew\C#\Ets2SdkClient.Demo\obj\x86\Debug\Ets2SdkClient.Demo.pdb
